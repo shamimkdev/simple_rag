@@ -1,0 +1,21 @@
+# Ignore a specific file
+secrets.json
+
+# Ignore a specific folder (and everything inside it)
+logs/
+vector_db/
+
+# Ignore all files ending with .log or .env
+*.log
+*.env
+*.sqlite3
+*.pyc
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Ignore OS-generated system files
+.DS_Store
+Thumbs.db

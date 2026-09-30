@@ -1,0 +1,13 @@
+Python AI-
+Required Skills
+
+5+ years of software development experience with strong proficiency in Python.
+Hands-on experience with LangGraph, LangChain, CrewAI, AutoGen, or similar agentic AI frameworks.
+Strong understanding of LLMs, prompt engineering, tool calling, memory, and multi-agent orchestration.
+Experience building RAG applications using vector databases such as Pinecone, Chroma, Weaviate, or Qdrant.
+Hands-on experience with FastAPI and REST API development.
+Knowledge of Model Context Protocol (MCP) or similar agent communication frameworks.
+Experience with Git, Docker, CI/CD, and production deployment.
+Strong problem-solving and debugging skills.
+
+================================================
